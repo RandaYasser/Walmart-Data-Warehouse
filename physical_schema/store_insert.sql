@@ -1,0 +1,10 @@
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES (1, 101, 'Cairo', 500, 101);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 2, 102, 'Alexandria', 650, 103);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 3, 103, 'Giza', 400, 107);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 4, 104, 'Hurghada', 700, 106);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 5, 105, 'Sharm El Sheikh', 550, 111);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 6, 106, 'Tanta', 450, 109);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 7, 107, 'Beni Suef', 600, 115);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 8, 108, 'Aswan', 350,120);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 9, 109, 'Mansoura', 300, 113);
+INSERT INTO dimStore ( StoreSK, StoreBK, Store_Location, Store_Size, Manager_ID) VALUES( 10, 110, 'Ismailia', 750, 117);
